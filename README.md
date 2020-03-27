@@ -1,2 +1,2 @@
-# Exerc-cios_JavaScript
+# Exercícios_JavaScript
 Atividades e desafios em JavaScript
